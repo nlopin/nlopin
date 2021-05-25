@@ -2,6 +2,10 @@
 
 My name is Nik. I am a frontend engineer and mentor
 
+[![Team lead of the JS and Infrastructure Crew](https://github.com/Y-Doka/badges/raw/main/images/avtor.svg)](https://github.com/Y-Doka/y-doka.site/commit/475e44e1cddcd1c5ff51ef956d141e4b4cb08593)
+[![Researcher @y-doka](https://github.com/Y-Doka/badges/raw/main/images/issledovatel.svg)](https://github.com/Y-Doka/content/commit/95735d9cb2b4d01c11689d0e8169229a45a724b3)
+[![Programmer @y-doka](https://github.com/Y-Doka/badges/raw/main/images/testirovshik.svg)](https://github.com/Y-Doka/y-doka.site/commit/4745af68cb9ef446528625d59e18dcfcc821637d)
+
 <!--
 **nlopin/nlopin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
