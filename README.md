@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Автор в Доке](https://raw.githubusercontent.com/doka-guide/badges/8223de32538d8d2f6ed9fc4ad05e02d1bd80859f/images/badges/author.svg)
+![Исследователь в Доке](https://raw.githubusercontent.com/doka-guide/badges/8223de32538d8d2f6ed9fc4ad05e02d1bd80859f/images/badges/explorer.svg)
+![Программист в Доке](https://raw.githubusercontent.com/doka-guide/badges/8223de32538d8d2f6ed9fc4ad05e02d1bd80859f/images/badges/programmer.svg)
